@@ -1,0 +1,23 @@
+# venv and caches
+.venv/
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# data & reports (keep tracked CSVs by choice)
+data/raw/
+data/processed/
+data/external/
+
+# figures and metrics
+reports/figures/
+reports/metrics/
+
+# streamlit stuff
+.streamlit/
+
+# OS/editor
+.DS_Store
+Thumbs.db
