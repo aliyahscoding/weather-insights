@@ -1,0 +1,7 @@
+model,mae,rmse
+seasonal_naive,4.282,5.556
+sarima,12.139,13.633
+ridge_ml,1.683,2.379
+seasonal_naive,4.282,5.556
+sarima,12.139,13.633
+ridge_ml,1.683,2.379
